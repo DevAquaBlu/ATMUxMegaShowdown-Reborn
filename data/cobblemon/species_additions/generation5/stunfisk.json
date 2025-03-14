@@ -1,0 +1,10 @@
+{
+  "target": "cobblemon:stunfisk",
+  "implemented": true,
+  "baseScale": 1.1,
+  "hitbox": {
+	  "width": 1,
+	  "height": 0.175,
+	  "fixed": false
+  }
+}

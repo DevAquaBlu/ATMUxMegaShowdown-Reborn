@@ -1,0 +1,141 @@
+{
+    "species": "cobblemon:silvally",
+    "order": 0,
+    "variations": [
+        {
+            "aspects": [],
+            "poser": "cobblemon:silvally",
+            "model": "cobblemon:silvally.geo",
+            "texture": "cobblemon:textures/pokemon/0773_silvally/silvally.png",
+            "layers": []
+        },
+        {
+            "aspects": [
+                "shiny"
+            ],
+            "poser": "cobblemon:silvally",
+            "model": "cobblemon:silvally.geo",
+            "texture": "cobblemon:textures/pokemon/0773_silvally/silvally_shiny.png",
+            "layers": []
+        },
+		{
+            "aspects": [
+			  "bug-memory"
+			],
+            "texture": "cobblemon:textures/pokemon/0773_silvally/silvally_bug.png",
+            "layers": []
+        },
+		{
+            "aspects": [
+			  "dark-memory"
+			],
+            "texture": "cobblemon:textures/pokemon/0773_silvally/silvally_dark.png",
+            "layers": []
+        },
+		{
+            "aspects": [
+			  "dragon-memory"
+			],
+            "texture": "cobblemon:textures/pokemon/0773_silvally/silvally_dragon.png",
+            "layers": []
+        },
+		{
+            "aspects": [
+			  "electric-memory"
+			],
+            "texture": "cobblemon:textures/pokemon/0773_silvally/silvally_electric.png",
+            "layers": []
+        },
+		{
+            "aspects": [
+			  "fairy-memory"
+			],
+            "texture": "cobblemon:textures/pokemon/0773_silvally/silvally_fairy.png",
+            "layers": []
+        },
+		{
+            "aspects": [
+			  "fighting-memory"
+			],
+            "texture": "cobblemon:textures/pokemon/0773_silvally/silvally_fighting.png",
+            "layers": []
+        },
+		{
+            "aspects": [
+			  "fire-memory"
+			],
+            "texture": "cobblemon:textures/pokemon/0773_silvally/silvally_fire.png",
+            "layers": []
+        },
+		{
+            "aspects": [
+			  "flying-memory"
+			],
+            "texture": "cobblemon:textures/pokemon/0773_silvally/silvally_flying.png",
+            "layers": []
+        },
+		{
+            "aspects": [
+			  "ghost-memory"
+			],
+            "texture": "cobblemon:textures/pokemon/0773_silvally/silvally_ghost.png",
+            "layers": []
+        },
+		{
+            "aspects": [
+			  "grass-memory"
+			],
+            "texture": "cobblemon:textures/pokemon/0773_silvally/silvally_grass.png",
+            "layers": []
+        },
+		{
+            "aspects": [
+			  "ground-memory"
+			],
+            "texture": "cobblemon:textures/pokemon/0773_silvally/silvally_ground.png",
+            "layers": []
+        },
+		{
+            "aspects": [
+			  "ice-memory"
+			],
+            "texture": "cobblemon:textures/pokemon/0773_silvally/silvally_ice.png",
+            "layers": []
+        },
+		{
+            "aspects": [
+			  "poison-memory"
+			],
+            "texture": "cobblemon:textures/pokemon/0773_silvally/silvally_poison.png",
+            "layers": []
+        },
+		{
+            "aspects": [
+			  "psychic-memory"
+			],
+            "texture": "cobblemon:textures/pokemon/0773_silvally/silvally_psychic.png",
+            "layers": []
+        },
+		{
+            "aspects": [
+			  "rock-memory"
+			],
+            "texture": "cobblemon:textures/pokemon/0773_silvally/silvally_rock.png",
+            "layers": []
+        },
+		{
+            "aspects": [
+			  "steel-memory"
+			],
+            "texture": "cobblemon:textures/pokemon/0773_silvally/silvally_steel.png",
+            "layers": []
+        },
+		{
+            "aspects": [
+			  "water-memory"
+			],
+            "texture": "cobblemon:textures/pokemon/0773_silvally/silvally_water.png",
+            "layers": []
+        }
+    ]
+}

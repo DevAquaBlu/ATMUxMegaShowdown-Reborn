@@ -1,0 +1,16 @@
+{
+  "target": "cobblemon:koraidon",
+  "implemented": "true",
+  "maleRatio": 0.5,
+  "hitbox": {
+    "width": 1.5,
+    "height": 2.9,
+    "fixed": false
+  },
+  "behaviour": {
+    "resting": {
+      "canSleep": true,
+      "light": "0-4"
+    }
+  }
+}

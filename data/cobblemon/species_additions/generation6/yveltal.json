@@ -1,10 +1,10 @@
 {
   "target": "cobblemon:yveltal",
   "implemented": true,
-  "baseScale": 1.35,
+  "baseScale": 1.825,
   "hitbox": {
-    "width": 1.5,
-    "height": 1.7,
+    "width": 1.75,
+    "height": 3.25,
     "fixed": false
   },
   "drops": {

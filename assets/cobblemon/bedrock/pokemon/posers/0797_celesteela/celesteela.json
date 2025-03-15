@@ -2,8 +2,8 @@
   "head": "head",
   "portraitScale": 1.0,
   "portraitTranslation": [0, 3.5, 0],
-  "profileScale": 0.3,
-  "profileTranslation": [0, 1.25, 0],
+  "profileScale": 0.25,
+  "profileTranslation": [0, 1.4, 0],
   "faint": "bedrock(celesteela, faint)",
   "poses": {
     "standing": {

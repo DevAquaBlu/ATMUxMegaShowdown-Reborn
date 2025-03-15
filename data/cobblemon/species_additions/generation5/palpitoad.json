@@ -14,7 +14,7 @@
       },
       "swim": {
         "canSwimInWater": true,
-        "canBreatheUnderwater": false
+        "canBreatheUnderwater": true
       }
     }
   }

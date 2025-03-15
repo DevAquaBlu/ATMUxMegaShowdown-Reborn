@@ -6,18 +6,18 @@
             "aspects": [],
             "poser": "cobblemon:reshiram",
             "model": "cobblemon:reshiram.geo",
-            "texture": "cobblemon:textures/pokemon/0643_reshiram/reshiram.png",
+            "texture": "cobblemon:textures/pokemon/reshiram/reshiram.png",
             "layers": [
                 {
                     "name": "emissive",
                     "emissive": true,
-                    "texture": "cobblemon:textures/pokemon/0643_reshiram/reshiram_emissive.png"
+                    "texture": "cobblemon:textures/pokemon/reshiram/reshiram_emissive.png"
                 },
                 {
                     "name": "translucent",
                     "emissive": true,
                     "translucent": true,
-                    "texture": "cobblemon:textures/pokemon/0643_reshiram/reshiram_emissive_translucent.png"
+                    "texture": "cobblemon:textures/pokemon/reshiram/reshiram_emissive_translucent.png"
                 }
             ]
         },
@@ -25,18 +25,18 @@
             "aspects": [
                 "shiny"
             ],
-            "texture": "cobblemon:textures/pokemon/0643_reshiram/reshiram_shiny.png",
+            "texture": "cobblemon:textures/pokemon/reshiram/reshiram_shiny.png",
             "layers": [
                 {
                     "name": "emissive",
                     "emissive": true,
-                    "texture": "cobblemon:textures/pokemon/0643_reshiram/reshiram_emissive_shiny.png"
+                    "texture": "cobblemon:textures/pokemon/reshiram/reshiram_emissive_shiny.png"
                 },
                 {
                     "name": "translucent",
                     "emissive": true,
                     "translucent": true,
-                    "texture": "cobblemon:textures/pokemon/0643_reshiram/reshiram_emissive_translucent_shiny.png"
+                    "texture": "cobblemon:textures/pokemon/reshiram/reshiram_emissive_translucent_shiny.png"
                 }
             ]
         }

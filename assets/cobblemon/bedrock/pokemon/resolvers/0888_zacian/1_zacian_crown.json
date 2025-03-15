@@ -8,7 +8,7 @@
             ],
 			"poser": "cobblemon:zacian_crown",
             "model": "cobblemon:zacian_crown.geo",
-            "texture": "cobblemon:textures/pokemon/0888_zacian/zacian_crown.png",
+            "texture": "cobblemon:textures/pokemon/0888_zacian/zacian_crowned.png",
             "layers": []
         },
         {

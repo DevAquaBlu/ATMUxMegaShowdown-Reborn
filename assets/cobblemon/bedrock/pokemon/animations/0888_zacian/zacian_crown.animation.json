@@ -2220,6 +2220,38 @@
 				}
 			}
 		},
+		"animation.zacian_crown.blink": {
+			"animation_length": 0.0833,
+			"bones": {
+				"eye_right_lid": {
+					"position": {
+						"0.0": [0, -1.52, 0],
+						"0.0833": [0, 0, 0]
+					}
+				},
+				"eye_left_lid": {
+					"position": {
+						"0.0": [0, -1.52, 0],
+						"0.0833": [0, 0, 0]
+					}
+				},
+				"sword_main_stage2": {
+					"scale": 0
+				},
+				"sword_main_stage3": {
+					"scale": 0
+				},
+				"sword_main_stage4": {
+					"scale": 0
+				},
+				"sword_main_stage5": {
+					"scale": 0
+				},
+				"sword_main_stage6": {
+					"scale": 0
+				}
+			}
+		},
 		"animation.zacian_crown.cry": {
 			"animation_length": 3.25,
 			"bones": {

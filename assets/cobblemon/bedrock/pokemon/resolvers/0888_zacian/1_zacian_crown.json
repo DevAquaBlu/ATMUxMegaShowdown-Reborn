@@ -1,0 +1,23 @@
+{
+    "species": "cobblemon:zacian",
+    "order": 0,
+    "variations": [
+        {
+            "aspects": [
+                "crowned"
+            ],
+            "model": "cobblemon:zacian_crown.geo",
+            "texture": "cobblemon:textures/pokemon/0888_zacian/zacian_crown.png",
+            "layers": []
+        },
+        {
+            "aspects": [
+                "crowned",
+                "shiny"
+            ],
+            "model": "cobblemon:zacian_crown.geo",
+            "texture": "cobblemon:textures/pokemon/0888_zacian/zacian_crown_shiny.png",
+            "layers": []
+        }
+    ]
+}

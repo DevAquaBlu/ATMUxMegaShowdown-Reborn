@@ -14,9 +14,7 @@
     "legendary",
     "restricted"
   ],
-  "aspects": [
-    "standard"
-  ],
+  "aspects": [],
   "abilities": [
     "drizzle",
     "h:drizzle"
@@ -200,21 +198,7 @@
     "tutor:thunderbolt",
     "tutor:waterpulse"
   ],
-  "evolutions": [
-    {
-      "id": "kyogre_primalkyogre",
-      "variant": "level_up",
-      "result": "kyogre reversion_state=primal",
-      "consumeHeldItem": false,
-      "learnableMoves": [],
-      "requirements": [
-        {
-          "variant": "held_item",
-          "itemCondition": "minecraft:heart_of_the_sea"
-        }          
-      ]
-    }
-  ],
+  "evolutions": [],
   "forms": [
     {
       "name": "Primal",
@@ -249,21 +233,7 @@
       },
       "baseExperienceYield": 385,
       "dynamaxBlocked": true,
-      "evolutions": [
-        {
-          "id": "primalkyogre_kyogre",
-          "variant": "level_up",
-          "result": "kyogre reversion_state=standard",
-          "consumeHeldItem": false,
-          "learnableMoves": [],
-          "requirements": [
-            {
-              "variant": "held_item",
-              "itemCondition": "minecraft:heart_of_the_sea"
-            }
-          ]
-        }
-      ],
+      "evolutions": [],
       "battleOnly": false
     }
   ]

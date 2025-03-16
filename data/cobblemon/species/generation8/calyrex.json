@@ -177,40 +177,22 @@
   ],
   "evolutions": [
     {
-      "id": "calyrex_calyrexice",
-      "variant": "level_up",
-      "result": "calyrex king_steed=ice",
-      "consumeHeldItem": true,
-      "learnableMoves": ["glaciallance"],
-      "requirements": [
-        {
-          "variant": "party_member",
-          "target": "glastrier",
-          "contains": "true"
-        },
-        {
-          "variant": "held_item",
-          "itemCondition": "minecraft:saddle"
-        }
-      ]
+      "id":"shadow",
+      "variant": "item_interact",
+      "result":"calyrex shadow",
+      "consumeHeldItem": false,
+      "learnableMoves":[],
+      "requirements":[],
+    "requiredContext": "cobblemon:ice_stone"
     },
     {
-      "id": "calyrex_calyrexshadow",
-      "variant": "level_up",
-      "result": "calyrex king_steed=shadow",
-      "consumeHeldItem": true,
-      "learnableMoves": ["astralbarrage"],
-      "requirements": [
-        {
-          "variant": "party_member",
-          "target": "spectrier",
-          "contains": "true"
-        },
-        {
-          "variant": "held_item",
-          "itemCondition": "minecraft:saddle"
-        }
-      ]
+      "id":"ice",
+      "variant": "item_interact",
+      "result":"calyrex ice",
+      "consumeHeldItem": false,
+      "learnableMoves":[],
+      "requirements":[],
+    "requiredContext": "cobblemon:dusk_stone"
     }
   ],
   "forms": [
@@ -236,7 +218,7 @@
         "restricted"
       ],
       "aspects": [
-        "ice-rider"
+        "ice"
       ],
       "abilities": [
         "asoneglastrier",
@@ -441,7 +423,7 @@
         "restricted"
       ],
       "aspects": [
-        "shadow-rider"
+        "shadow"
       ],
       "abilities": [
         "asonespectrier",

@@ -25,7 +25,7 @@
                 "maxSkyLight": 15,
                 "timeRange": "day",
                 "biomes": [
-                    "#cobblemon:is_plains"
+                    "#cobblemon:is_mountain"
                 ]
             }
         }

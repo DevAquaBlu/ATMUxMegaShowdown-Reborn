@@ -29,9 +29,6 @@
 - Giratina:
   Form Change    - Hold Nether Star
 
-- Shaymin:
-  Form Change    - Hold Spore Blossom
-
 - Arceus:
   Form Change    - Hold the respective Type-Boosting Item (Charcoal Stick, Miracle Seed, Mystic Water, etc.)
 
@@ -84,18 +81,8 @@
   Urshifu-Dark   - Use Dusk Stone
   Urshifu-Water  - Use Water Stone
 
-- Calyrex
-  Calyrex-Ice    - Hold Saddle + have Glastrier in Party
-  Calyrex-Shadow - Hold Saddle + have Spectrier in Party
-
 - Enamorus:
   Form Change    - Hold Amethyst Shard
-
-- Ogerpon
-  Ogerpon-Teal        - Hold Miracle Seed
-  Ogerpon-Wellspring  - Hold Mystic Water
-  Ogerpon-Hearthflame - Hold Charcoal Stick
-  Ogerpon-Cornerstone - Hold Hard Stone
 
 - Terapagos
   Terapagos-Terastal  - Level 50+
